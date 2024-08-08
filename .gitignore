@@ -1,0 +1,26 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.suo.*
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.nupkg.metadata
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
